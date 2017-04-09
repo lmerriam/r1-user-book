@@ -213,3 +213,12 @@ header {
 .mastery {
 	@include timeline-colorizer(#222);
 }
+
+.coming-soon {
+	background: #222;
+	border-bottom: 1px solid #333;
+	padding: 3em 0;
+	color: white;
+	font-size: 2em;
+	font-weight: bolder;
+}
