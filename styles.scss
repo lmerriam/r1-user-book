@@ -117,10 +117,11 @@ header {
 }
 
 .white-box {
+	box-sizing: border-box;
   background: white;
   text-align: left;
-  padding: 2em;
-  width: 95%;
+  padding: 1.75em;
+  width: 98%;
   max-width: 500px;
   margin: 0 auto 2em auto;
 	h3 {
